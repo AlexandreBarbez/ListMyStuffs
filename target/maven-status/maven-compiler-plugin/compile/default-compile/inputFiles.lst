@@ -1,0 +1,8 @@
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/model/Stuff.java
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/repository/StuffRepository.java
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/controller/StuffController.java
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/LoadDatabase.java
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/controller/StuffNotFoundAdvice.java
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/ListMyStuffsApplication.java
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/controller/StuffNotFoundException.java
+/Users/halx/workspace/listMyStuffs/src/main/java/org/halx/listMyStuffs/MyConfiguration.java

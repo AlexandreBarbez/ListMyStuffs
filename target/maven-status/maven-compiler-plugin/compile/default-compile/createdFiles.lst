@@ -1,0 +1,8 @@
+org/halx/listMyStuffs/repository/StuffRepository.class
+org/halx/listMyStuffs/controller/StuffController.class
+org/halx/listMyStuffs/LoadDatabase.class
+org/halx/listMyStuffs/ListMyStuffsApplication.class
+org/halx/listMyStuffs/controller/StuffNotFoundException.class
+org/halx/listMyStuffs/controller/StuffNotFoundAdvice.class
+org/halx/listMyStuffs/MyConfiguration.class
+org/halx/listMyStuffs/model/Stuff.class
